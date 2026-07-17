@@ -14,6 +14,17 @@
   <strong>Edge infrastructure for sensor-driven systems.</strong>
 </p>
 
+
+## Application Areas
+
+Nexus N3 supports sensor-driven capabilities across:
+
+* human health monitoring and physiology research
+* health and performance studies
+* space and analogue mission environments
+* technology and algorithm validation
+* distributed and remote sensor deployments
+
 <p align="center">
   Unify sensors, algorithms and operational workflows across disconnected,
   distributed and mission-critical environments.
@@ -26,8 +37,6 @@
   ·
   <a href="https://nexus-n3.com/gateway/docs/">Documentation</a>
 </p>
-
----
 
 ## Turn fragmented sensor ecosystems into operational platforms
 
@@ -56,16 +65,6 @@ It is designed for systems that must continue operating when connectivity is lim
 * **Coordinate** repeatable multi-sensor and operational workflows.
 * **Extend** capabilities through modular plugins and integration interfaces.
 * **Control** deployments locally, remotely or through hybrid operating models.
-
-## Applications
-
-Nexus N3 supports sensor-driven capabilities across:
-
-* human health monitoring and physiology research
-* health and performance studies
-* space and analogue mission environments
-* technology and algorithm validation
-* distributed and remote sensor deployments
 
 ---
 
