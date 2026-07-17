@@ -1,8 +1,8 @@
 <p align="center">
   <a href="https://nexus-n3.com/">
     <img
-      src="https://avatars.githubusercontent.com/u/279397336?s=240&v=4"
-      width="132"
+      src="NX_logo_dark.png"
+      width="500"
       alt="Nexus N3 logo"
     >
   </a>
